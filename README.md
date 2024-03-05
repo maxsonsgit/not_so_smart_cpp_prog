@@ -1,1 +1,1 @@
-# kmms_prog_2023
+# not_so_smart_prog_2023
