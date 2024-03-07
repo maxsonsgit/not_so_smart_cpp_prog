@@ -4,4 +4,4 @@ set(SOURCES
 	megre.cpp
 )
 
-add_executable(${PROJECT_NAME} ${HEADERS} ${SOURCES})
+add_executable(${PROJECT_NAME} ${SOURCES})
